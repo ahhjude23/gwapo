@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#About">About Us</a></li>
+                <li><a href="#Blogs">Blogs</a></li>
+                <li><a href="#Contact">Contact</a></li>
+                <li><a href="#Emojis">Emojis</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="About">
+        <h2>About Us</h2>
+        <h3>DAPAT JUDE B.</h3>
+        <ul>Greetings, this is Jude B. Dapat.</ul>
+        <ul>We are thrilled to introduce ourselves and provide a brief overview of our website.</ul>
+        <ul>We are presently enrolled at Cebu Eastern Collage Inc.</ul>
+        <img src="c:\Users\USER\Documents\portfolio\bc691d55-739a-4181-bc2a-202fad37ca99.jpg"
+        height="300"
+        width="250">
+        <h3>SOCO ZION LIE T.</h3>
+        <ul>Hi there, I'm Zion Lie T. Soco.</ul>
+        <ul>With great pleasure, we present ourselves and give a quick rundown of our website.</ul>
+        <ul>We currently attend Cebu Eastern College Inc.</ul>
+        
+
+    </section>
+    <section id="Blogs">
+        <h2>Blogs</h2>
+        <div class="project">
+            <h3>Welcome to Our School</h3>
+            <p>We can't wait to welcome you!</p> 
+            <p>To support students as they progress academically,</p>
+            <p>our school provides a wide range of topics.</p>
+            <h3>Introduction Video</h3>
+            <p>Learn For Visual Studio</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VqCgcpAypFQ?si=y-9HOPtuXtfKi0v4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Our School Location 📍</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!3m2!1sen!2sph!4v1742245812354!5m2!1sen!2sph!6m8!1m7!1sVv0sWtcL_AFQs69eeH27Xw!2m2!1d10.29423425921965!2d123.8960506384359!3f43.74815672801337!4f-19.980087664340957!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        
+        </div>
+        
+    </section>
+    <section id="Contact">
+        <h2>Contact Me</h2>
+        <p>Email: dapatjude@gmail.com</p>
+        <p>Email: Zionsoco00gmail.com</p>
+        </p>
+    </section>
+
+    <section id="Emojis">
+        <h2>Emojis</h2>
+        <p>❤ Heart</p>
+        <p>🚀 Rocket</p>
+        <p>😫 Tired Face</p>
+        <p>😍 Smiling Face With Heart</p>
+    </section>
+
+    
+    <footer>
+        <p>&copy; 2025 Jude B. Dapat and Zion Lie T. Soco</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
